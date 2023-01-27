@@ -6,4 +6,6 @@ streamlit.text('🥗 Omega 3 blueberry menu')
 streamlit.text('🥑Spinatch smoothie')
 streamlit.text('🐔 Harb boiled egg ')
 
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+
 
